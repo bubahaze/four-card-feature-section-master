@@ -54,6 +54,6 @@ Still I need to work on (among other things) grid, responsive design and clean c
 ## Author
 
 - Website - [bubahaze](https://www.github.com/bubahaze)
-- Frontend Mentor - [@ybubahaze](https://www.frontendmentor.io/profile/bubahaze)
+- Frontend Mentor - [@bubahaze](https://www.frontendmentor.io/profile/bubahaze)
 
 
